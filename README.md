@@ -1,2 +1,2 @@
-# tester-blockchain-projects
-The Role of a Tester in Blockchain Projects
+# The Role of a Tester in Blockchain Projects
+
